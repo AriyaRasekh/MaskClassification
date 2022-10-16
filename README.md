@@ -1,5 +1,5 @@
 # MaskClassification
-This model is trained using **Fastai** libaray in **Jupyter Notebook** on nearly 12,000 pictures with or without mask.\
+This model is trained using **Fastai** libaray in **Jupyter Notebook** on nearly 12,000 pictures with or without mask.
 
 **Disclamair**: This is an academic project and diversity of image data-set and reliabitlity of modle detection is NOT haveily studied and verified\
 
